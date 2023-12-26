@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/avadhoottavhare" target="blank"><img src="https://img.shields.io/twitter/follow/avadhoottavhare?logo=twitter&style=for-the-badge" alt="avadhoottavhare" /></a> </p>
 
 - 📫 How to reach me **avadhoot.tavhare@icloud.com**
-- 💻 Check out my portfolio (https://storied-dodol-a3a633.netlify.app/)
+- 💻 Check out my portfolio https://storied-dodol-a3a633.netlify.app/
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
